@@ -1,2 +1,2 @@
 # michaelfranklin.github.io
-### Here is the Linke to my GitHub Page!!
+### Here is the Link to my GitHub Page!!
