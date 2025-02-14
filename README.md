@@ -1,4 +1,4 @@
 # michaelfranklin.github.io
-### Here is the Link to my GitHub Page!!
+### Here is the Link to my GitHub Account!!
 
-michaelfranklin.github.io [link] (https://sladgladmadlad3.github.io/michaelfranklin.github.io/)
+[Visit My GitHub](https://sladgladmadlad3.github.io/michaelfranklin.github.io/)
